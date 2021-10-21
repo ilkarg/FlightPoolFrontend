@@ -172,6 +172,22 @@ body
     color: white;
     font-size: 45px;
     margin-top: 10px;
+	text-align: center;
+}
+
+#content-block-1 
+{
+	text-align: left;
+}
+
+#content-block-2 
+{
+	text-align: right;
+}
+
+#content-block-3 
+{
+	text-align: left;
 }
 
 #home-img-label1 
@@ -288,6 +304,11 @@ body
     font-weight: bold;
     color: white;
     font-size: 20px;
+}
+
+#footer-content 
+{
+	text-align: center;
 }
 
 #footer-promo 
