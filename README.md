@@ -1,1 +1,1 @@
-# FlightPoolFrontend
+# ReactTypescriptTemplate
